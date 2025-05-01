@@ -6,18 +6,18 @@ Qurio is more than just a quotes app; it's a Flutter project focused on deliveri
 
 ## App Screenshot
 
-<img src="./screenshots/Home_Screen_Dark.jpg" width="300"  alt="Error Loading Image">
-<img src="./screenshots/Home_Screen_Light.jpg" width="300" alt="Error Loading Image">
-<img src="./screenshots/Sign_In_Light.jpg" width="300" alt="Error Loading Image">
-<img src="./screenshots/Sign_In_dark.jpg" width="300" alt="Error Loading Image">
-<img src="./screenshots/Sign_Up_Dark.jpg" width="300" alt="Error Loading Image">
 <img src="./screenshots/Sign_UP_Light.jpg" width="300" alt="Error Loading Image">
+<img src="./screenshots/Sign_In_Light.jpg" width="300" alt="Error Loading Image">
 <img src="./screenshots/Email_Verification_light.jpg" width="300" alt="Error Loading Image">
+<img src="./screenshots/Home_Screen_Light.jpg" width="300" alt="Error Loading Image">
 <img src="./screenshots/AppBar_Drawer_Light.jpg" width="300" alt="Error Loading Image">
-<img src="./screenshots/AppBar_Drawer_Dark.jpg" width="300" alt="Error Loading Image">
-<img src="./screenshots/App_Settings_Dark.jpg" width="300" alt="Error Loading Image">
 <img src="./screenshots/App_Settings_Light.jpg" width="300"  alt="Error Loading Image">
 <img src="./screenshots/Saved_Quotes_Light.jpg" width="300"  alt="Error Loading Image">
+<img src="./screenshots/Sign_Up_Dark.jpg" width="300" alt="Error Loading Image">
+<img src="./screenshots/Sign_In_dark.jpg" width="300" alt="Error Loading Image">
+<img src="./screenshots/Home_Screen_Dark.jpg" width="300"  alt="Error Loading Image">
+<img src="./screenshots/AppBar_Drawer_Dark.jpg" width="300" alt="Error Loading Image">
+<img src="./screenshots/App_Settings_Dark.jpg" width="300" alt="Error Loading Image">
 <img src="./screenshots/Saved_Quotes_Dark.jpg" width="300"  alt="Error Loading Image">
 
 ## What's inside
