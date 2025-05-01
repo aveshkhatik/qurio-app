@@ -102,4 +102,4 @@ Special thanks to the creators of the Flutter framework and the following packag
 
 ## License
 
-Qurio
+Qurio is under MIT License
